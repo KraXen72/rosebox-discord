@@ -11,7 +11,7 @@ And many other tweaks from the harmony theme
 1. go to ``Settings`` > ``Themes`` > ``Quick CSS tab``
 2. Paste this into the textarea on the first line
 ```css 
-https://raw.githack.com/KraXen72/rosebox-discord/main/main.css
+@import url('https://raw.githack.com/KraXen72/rosebox-discord/main/main.css')
 ```   
 3. enjoy
   
@@ -20,7 +20,7 @@ https://raw.githack.com/KraXen72/rosebox-discord/main/main.css
 2. put in ``powercord/src/themes/Harmony``
 3. put this into your css file:  
 ```css 
-https://raw.githack.com/KraXen72/rosebox-discord/main/main.css
+@import url('https://raw.githack.com/KraXen72/rosebox-discord/main/main.css')
 ```  
 
 ```diff
