@@ -28,10 +28,3 @@
 .searchBarComponent-32dTOx, .search-36MZv- {
     background-color: var(--background-secondary) !important;
 }
-[class*="username"] {
-    filter: sepia(30%) !important;
-    transition: filter 0.2s;
-  }
-  [class*="username"]:hover {
-    filter: sepia(20%) !important;
-  }
