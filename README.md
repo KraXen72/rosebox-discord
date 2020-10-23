@@ -1,6 +1,9 @@
 # rosebox theme for Discord
 A discord theme that builds on my Harmony theme, but has a modified gruvbox with rose gold accents as a color scheme.
 
+![main](https://cdn.discordapp.com/attachments/704792091955429426/769205102393032744/unknown.png)
+![frend](https://cdn.discordapp.com/attachments/704792091955429426/769205114556383262/unknown.png)
+
 Uses my **Harmony** theme as base:
 <blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/harmony-discord">KraXen72/harmony-discord</a></h4><p>a frequently updated theme that keeps the vanilla discord experience, but brings harmony and many tweaks into it. install using powercord. https://powercord.dev</p></blockquote>
   
