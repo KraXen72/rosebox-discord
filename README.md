@@ -11,7 +11,7 @@ And many other tweaks from the harmony theme
 1. go to ``Settings`` > ``Themes`` > ``Quick CSS tab``
 2. Paste this into the textarea on the first line
 ```css 
-@import url("https://raw.githack.com/KraXen72/deep-blue-discord/master/main.css");
+https://raw.githack.com/KraXen72/rosebox-discord/main/main.css
 ```   
 3. enjoy
   
@@ -20,7 +20,7 @@ And many other tweaks from the harmony theme
 2. put in ``powercord/src/themes/Harmony``
 3. put this into your css file:  
 ```css 
-@import url("https://raw.githack.com/KraXen72/deep-blue-discord/master/main.css");
+https://raw.githack.com/KraXen72/rosebox-discord/main/main.css
 ```  
 
 ```diff
@@ -32,6 +32,8 @@ if this doesent work copy the contents of the link into the css file.
 6. If you want to turn the theme off or on, also switch themes, i recommend installing this plugin: https://github.com/LandenStephenss/Themer.  
 7. enjoy
 
+## My other Themes
+<blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/deep-blue-discord">KraXen72/deep-blue-discord</a></h4><p>A theme for discord Based off the new Deep Blue Discord Concept art on their webpage: https://discord.com/new, Uses my Harmony theme as base</p></blockquote>
   
 for questions contact KraXen72#9190 on Discord    
 
