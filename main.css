@@ -1,0 +1,31 @@
+@import url("https://raw.githack.com/KraXen72/harmony-discord/master/main.css"); 
+:root {
+    /*gruvbox override*/
+    --Colleft: var(--slate-background);
+    --background-primary: var(--slate-background-light);
+    --background-primary: #262626;
+    --Colleft: #222222;
+    --background-secondary: var(--Colleft);
+    --ColAccent: #a57562;
+    --ColAccentAlpha: RGBA(165, 117, 98, 0.2);
+
+    /*set respecitve colors to Colleft - ignore*/
+    --ColServerSelBG: var(--Colleft);
+    --ColChannelList: var(--Colleft);
+    --ColTitleBar: var(--Colleft);
+    --ColMemberList:var(--background-primary);
+    --ColLink: var(--ColAccent);
+    --text-link: var(--ColLink);
+
+    --text-fix: #a3a5aa;
+
+    --text-normal: var(--text-fix);
+    --interactive-active: var(--text-fix);
+    --header-primary: var(--ColAccent);
+
+
+}
+.searchBarComponent-32dTOx, .search-36MZv-, .inspector-S2gM3e {
+    background-color: var(--background-secondary) !important;
+}
+::selection {background-color: var(--ColAccentAlpha) !important;}
