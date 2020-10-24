@@ -28,4 +28,4 @@
 .searchBarComponent-32dTOx, .search-36MZv-, .inspector-S2gM3e {
     background-color: var(--background-secondary) !important;
 }
-::selection {background-color: var(--ColAccentAlpha)}
+::selection {background: var(--ColAccentAlpha)}
