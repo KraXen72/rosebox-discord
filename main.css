@@ -1,4 +1,4 @@
-@import url("https://raw.githack.com/KraXen72/harmony-discord/master/main.css"); 
+@import url("https://kraxen72.github.io/harmony-discord/main.css"); 
 :root {
     /*gruvbox override*/
     --Colleft: var(--slate-background);
@@ -46,3 +46,4 @@
 
 .colorDefault-2K3EoJ.focused-3afm-j {background-color: var(--background-modifier-selected) !important;}
 .button-1YfofB.buttonColor-7qQbGO {color: #fff !important; }
+
