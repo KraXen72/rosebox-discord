@@ -5,7 +5,7 @@ a discord theme that builds on my Harmony theme, but with the [rosebox](https://
 ![frend](https://cdn.discordapp.com/attachments/704792091955429426/769205114556383262/unknown.png)
 
 ## moved to new repo:
-[**https://github.com/KraXen72/rosebox/discord**](https://github.com/KraXen72/rosebox/discord)  
+[**https://github.com/KraXen72/rosebox/tree/master/discord**](https://github.com/KraXen72/rosebox/tree/master/discord)  
 [https://kraxen72.github.io/rosebox/discord](https://kraxen72.github.io/rosebox/discord)     
 
 *this repo will no longer be updated.*
